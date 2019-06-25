@@ -4,7 +4,7 @@
 body {
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+	background-color: #F076A3;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -35,7 +35,7 @@ a:visited {
 	color:#6aa4d6;
 }
 a:hover {
-	color: #4f7697;
+	color: #446706;
 }
 a:active {
 	color: #aed3f2;
@@ -57,24 +57,28 @@ img {
 	padding-right: 30px;
 }
 #nav {
-	margin: 0 0 0 0;
-	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+    margin: 0 0 0 0;
+    padding: 15px 30px 10px 30px;
+    background-image: url(../had.jpg);
 }
 #nav li a:link {
-	color: #f5f3eb;
+	color: #5457F4;
 	text-decoration: none;
 }
 #nav li a:visited {
-	color: #f5f3eb;
+	color: #8C58F8;
 	text-decoration: none;
 }
 #nav li a:hover {
-    color: #DDB006;
+    color: #FBFB08;
+    text-decoration: none;
+}
+#nav_spe li a:hover {
+    color: #F70927;
     text-decoration: none;
 }
 #nav li a:active {
-	color: #ffffff;
+	color: #fffff;
 	text-decoration: none;
 }
 
